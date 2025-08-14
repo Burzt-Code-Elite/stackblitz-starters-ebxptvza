@@ -1,0 +1,21 @@
+{
+  "name": "next-api-supabase",
+  "version": "1.0.0",
+  "description": "Next.js app with vanilla JS and Supabase using raw SQL",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "pg": "^8.11.0",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
